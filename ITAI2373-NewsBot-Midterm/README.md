@@ -18,7 +18,7 @@ NewsBot is an NLP-powered system that automatically processes and analyzes news 
 - Sample outputs for POS, sentiment, and entities
 
 ## 🎥 Video Demo (Optional)
-[Watch the demo here](YOUR_YOUTUBE_OR_DRIVE_LINK)
+*No video demo submitted for this project.*
 
 ## 📁 Files Included
 - `NewsBot_Midterm.ipynb` — full pipeline notebook
