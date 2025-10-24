@@ -23,5 +23,5 @@ NewsBot is an NLP-powered system that automatically processes and analyzes news 
 ## 📁 Files Included
 - `NewsBot_Midterm.ipynb` — full pipeline notebook
 - `newsbot_dataset.csv` — cleaned dataset
-- `NewsBot_Reflection_Aima_ITAI2373.pdf` — reflective report
+- `NewsBot_Reflection_Aima Ayaz.pdf` — reflective report
 
